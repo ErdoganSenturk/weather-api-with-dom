@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(weather-picture.gif);
+    background-image: url(weather-picture2.gif);
     background-size: cover;
 }
 
@@ -19,4 +19,20 @@ h1{
     text-align: center;
     margin-top: 50px;
     color:whitesmoke;
+}
+
+.inner-container { 
+    margin: auto;
+    margin-top: 3rem;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 220px;
+    height: auto;
+}
+button:hover{
+    transform: scale(0.97);
+}
+p{
+    font-size: 3rem;
+    font-weight: 700;
 }
