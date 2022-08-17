@@ -2,3 +2,21 @@
     margin: 5rem auto;
     text-align: center;
 }
+
+body {
+    background-image: url(weather-picture.gif);
+    background-size: cover;
+}
+
+input, button {
+    padding: 10px;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    margin : 5px;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color:whitesmoke;
+}
