@@ -1,5 +1,5 @@
 .container{
-    margin: 5rem auto;
+    margin: 3rem auto;
     text-align: center;
 }
 
@@ -7,7 +7,6 @@ body {
     background-image: url(weather-picture2.gif);
     background-size: cover;
 }
-
 input, button {
     padding: 10px;
     border-radius: 8px;
